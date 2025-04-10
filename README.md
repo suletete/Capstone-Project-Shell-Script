@@ -1,15 +1,12 @@
----
+# Capstone Project: Shell Script for AWS IAM Management
 
-# **Capstone Project: Shell Script for AWS IAM Management**
-
- ## **Project Scenario**
+## Project Scenario
 
 **Company:** CloudOps Solutions  
 **Background:** As CloudOps Solutions scales, it becomes essential to automate the management of AWS Identity and Access Management (IAM) resources. Manual processes for user and group creation become inefficient and error-prone, especially with a growing DevOps team.
 
 To solve this, automation using **Shell scripting** and **AWS CLI** has been chosen.
 
----
 
 ## **Purpose of the Project**
 
